@@ -1,6 +1,6 @@
 ## DATA622 HW #4
-- Assigned on October 11, 2017
-- Due on October 25, 2017 11:59 PM EST
+- Assigned on October 25, 2018
+- Due on October 14, 2018 11:59 PM EST
 - 15 points possible, worth 15% of your final grade
 
 ### Instructions:
